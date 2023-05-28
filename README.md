@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello and Welcome! I'm Hikaru</h1>
 <h3 align="center">I am trying to do something here</h3>
 
-![image](https://img.upanh.tv/2023/05/28/2560x1600-px-abstract-painting-starry-night-Vincent-van-Gogh-1342081-wallhere.com1fa66ac37d60c6a2.png)
+![image](https://img.upanh.tv/2023/05/28/108436320_p0-1-1.jpg)
 
 <h1 align="center">Connect with me:</h1>
 <h3 align="center">
