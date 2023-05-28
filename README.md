@@ -1,9 +1,10 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=hikarutran&icon=0&color=1)](https://visitcount.itsvg.in)
 <h1 align="center">👋 Hello and Welcome! I'm Hikaru</h1>
-<h3 align="center">I am trying to do something here</h3>
+<h3 align="center">✨I am trying to do something here✨</h3>
 
-![image](https://img.upanh.tv/2023/05/28/108436320_p0-1-1.jpg)
+![image](https://images.anime-pictures.net/39f/39fa4a85b40a42227820bcbb63313662.jpeg?if=ANIME-PICTURES.NET_-_773993-2200x1300-genshin+impact-shenhe+%28genshin+impact%29-zassyoku+dd-single-long+hair-looking+at+viewer.jpeg)
+<h1 align="center">💕💕I love Shenhe💕💕</h1>
 
 
 ## 🌐 Socials:
