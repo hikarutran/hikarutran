@@ -3,6 +3,10 @@
 
 ![image](https://img.upanh.tv/2023/05/28/108436320_p0-1-1.jpg)
 
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/976468549705031710)](https://discord.com/users/976468549705031710)
+
 <h1 align="center">Connect with me:</h1>
 <h3 align="center">
 <a href="https://www.instagram.com/hikaruiswaiting/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oppxi.jp" height="30" width="40" /></a>
